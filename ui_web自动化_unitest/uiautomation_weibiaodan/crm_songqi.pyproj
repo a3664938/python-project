@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8970709c-f858-4292-a5c1-95161e520e15}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>config.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="config.py" />
+    <Compile Include="DB\DB_base.py" />
+    <Compile Include="page\details_page\alert_page.py" />
+    <Compile Include="page\details_page\backstage_main_page.py" />
+    <Compile Include="page\details_page\backstage_order_handle_page.py" />
+    <Compile Include="page\details_page\backstage_order_list_page.py" />
+    <Compile Include="page\details_page\delivery_list_page.py" />
+    <Compile Include="page\details_page\goods_details_page.py" />
+    <Compile Include="page\details_page\order_create_page.py" />
+    <Compile Include="page\details_page\order_success_bage.py" />
+    <Compile Include="page\details_page\user_center_page.py" />
+    <Compile Include="page\login\login_backstage_page.py" />
+    <Compile Include="page\login\login_page.py" />
+    <Compile Include="page\login\main_page.py" />
+    <Compile Include="page\login\middle_page.py" />
+    <Compile Include="page\page_base.py" />
+    <Compile Include="page\shopping_cart_page\shopping_cart.py" />
+    <Compile Include="run.py" />
+    <Compile Include="testcase\login_case.py" />
+    <Compile Include="testcase\test_base.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="results\report.html" />
+    <Content Include="results\test_login_success17_35_18_error.png" />
+    <Content Include="results\test_login_success17_35_28_error.png" />
+    <Content Include="results\test_login_success17_35_49_error.png" />
+    <Content Include="results\test_login_success17_35_58_error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DB" />
+    <Folder Include="page" />
+    <Folder Include="page\details_page" />
+    <Folder Include="page\login" />
+    <Folder Include="page\shopping_cart_page" />
+    <Folder Include="results" />
+    <Folder Include="testcase" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

@@ -1,0 +1,238 @@
+1531136750212	geckodriver	INFO	geckodriver 0.20.1
+1531136750222	geckodriver	INFO	Listening on 127.0.0.1:61220
+1531136753268	mozrunner::runner	INFO	Running command: "D:\\filefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\30833\\AppData\\Local\\Temp\\rust_mozprofile.EviwkvwEcBYo"
+1531136754210	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/filefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+1531136754651	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3804] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3804] WAR1531136755966	Marionette	INFO	Listening on port 61230
+1531136756459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531136756518	Marionette	DEBUG	Register listener.js for window 4294967297
+1531136756574	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531136757159	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531136757159	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531136757687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/"
+1531136758298	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/"
+1531136758369	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/"
+1531136758470	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/"
+1531136758470	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/"
+1531136758586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/user.php"
+1531136758677	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/user.php"
+1531136758949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136759196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136759239	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/user.php"
+1531136759434	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/user.php"
+1531136759435	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/user.php"
+1531136759552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/user.php"
+1531136759648	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/user.php"
+1531136762962	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/"
+1531136763232	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/"
+1531136763232	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/"
+1531136763449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/goods.php?id=134"
+1531136764958	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/goods.php?id=134"
+1531136765200	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136765581	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=cart"
+1531136765845	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=cart"
+1531136765846	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=cart"
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136765952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136766055	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136766300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136766523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136766750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136766991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136767355	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136767935	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136767936	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=checkout"
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136768010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/flow.php?step=done"
+1531136768109	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/flow.php?step=done"
+1531136768154	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=done"
+1531136768275	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=done"
+1531136768275	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=done"
+1531136768344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136768363	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136768645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136768924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://localhost:8088/upload/admin/js/validator.js, line 35: ReferenceError: Utils is not defined
+1531136769020	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136769100	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136769101	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136769108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/index.php"
+1531136770311	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/index.php"
+1531136770396	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/index.php?act=main"
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1531136770539	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/index.php?act=main"
+1531136770539	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/index.php?act=main"
+1531136770576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136770653	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136770936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136771186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136771203	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136771310	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136771311	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136771478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136771516	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136775564	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136775638	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136775638	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136775672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136775726	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136775766	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136775867	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136775867	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136775891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=operate_post"
+1531136775948	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=operate_post"
+1531136779266	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136779396	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136779396	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15066"
+1531136779418	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070933558"
+1531136779473	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070933558"
+1531136780794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136781864	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070933558"
+1531136781939	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070933558"
+1531136781940	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070933558"
+1531136781995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=82"
+1531136782041	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=82"
+1531136783144	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=82"
+1531136783257	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=82"
+1531136783258	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=82"
+1531136783281	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php"
+1531136783314	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php"
+1531136784450	Marionette	DEBUG	Register listener.js for window 4294967326
+1531136794583	Marionette	INFO	New connections will no longer be accepted
+[Parent 15736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13596] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13596][Child 3756] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3756] WARNING: pipe *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531136875480	geckodriver	INFO	geckodriver 0.20.1
+1531136875490	geckodriver	INFO	Listening on 127.0.0.1:61453
+1531136878509	mozrunner::runner	INFO	Running command: "D:\\filefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\30833\\AppData\\Local\\Temp\\rust_mozprofile.QDQfeNvPTHCi"
+1531136879465	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/filefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+1531136879895	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13796] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 137Unable to read VR Path Registry from C:\Users\30833\AppData\Local\openvr\openvrpaths.vrpath
+1531136881077	Marionette	INFO	Listening on port 61461
+1531136881681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531136881714	Marionette	DEBUG	Register listener.js for window 4294967297
+1531136881790	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531136882244	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531136882244	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531136882640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/"
+1531136883099	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/"
+1531136883167	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/"
+1531136883265	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/"
+1531136883265	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/"
+1531136883397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/user.php"
+1531136883491	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/user.php"
+1531136883748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136883993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136884044	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/user.php"
+1531136884195	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/user.php"
+1531136884196	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/user.php"
+1531136884262	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/user.php"
+1531136884361	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/user.php"
+1531136887638	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/"
+1531136887891	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/"
+1531136887892	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/"
+1531136888163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/goods.php?id=134"
+1531136888344	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/goods.php?id=134"
+1531136888594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136888973	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=cart"
+1531136889220	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=cart"
+1531136889220	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=cart"
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136889323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136889436	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136889685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136889919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136890144	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136890376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136890742	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136891280	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=checkout"
+1531136891281	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=checkout"
+JavaScript warning: http://localhost:8088/upload/js/shopping_flow.js, line 530: unreachable code after return statement
+1531136891361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/flow.php?step=done"
+1531136891457	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/flow.php?step=done"
+1531136891500	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/flow.php?step=done"
+1531136891613	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/flow.php?step=done"
+1531136891613	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/flow.php?step=done"
+1531136891653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136891671	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136891943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136892226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: http://localhost:8088/upload/admin/js/validator.js, line 35: ReferenceError: Utils is not defined
+1531136892302	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136892386	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136892387	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/privilege.php?act=login"
+1531136892395	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/index.php"
+1531136893615	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/index.php"
+1531136893760	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/index.php?act=main"
+JavaScript error: , line 0: uncaught exception: transport.js/parseResult() error: can't parse to JSON.
+
+
+1531136893911	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/index.php?act=main"
+1531136893912	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/index.php?act=main"
+1531136893938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136894010	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136894313	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136894563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136894579	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136894689	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136894690	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=list&composite_status=101"
+1531136894855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136894895	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136898954	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136899035	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136899036	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136899081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136899145	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136899182	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136899297	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136899297	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=operate"
+1531136899327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=operate_post"
+1531136899363	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=operate_post"
+1531136902745	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136902875	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136902875	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=info&order_id=15067"
+1531136902912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070997304"
+1531136902980	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070997304"
+1531136904287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1531136905313	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070997304"
+1531136905383	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070997304"
+1531136905383	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=delivery_list&order_sn=2018070997304"
+1531136905424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=83"
+1531136905489	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=83"
+1531136906574	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=83"
+1531136906681	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=83"
+1531136906682	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8088/upload/admin/order.php?act=delivery_info&delivery_id=83"
+1531136906708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8088/upload/admin/order.php"
+1531136906743	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8088/upload/admin/order.php"
+1531136907861	Marionette	DEBUG	Register listener.js for window 4294967326
+1531136918002	Marionette	INFO	New connections will no longer be accepted
+[Parent 4708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5200] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5200] WARNING*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
