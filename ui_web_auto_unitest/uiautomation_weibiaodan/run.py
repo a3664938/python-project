@@ -1,3 +1,4 @@
+# coding=utf-8
 import unittest
 from HTMLTestRunner.HTMLTestRunner.HTMLTestRunner_PY3 import HTMLTestRunner
 from config import DIR
@@ -11,7 +12,7 @@ import os
 #     print(i)
 discover = unittest.defaultTestLoader.discover(
     start_dir=DIR + os.path.sep + 'testcase',
-    pattern='data_source_case.py'
+    pattern='*case.py'
 )
 
 # runner = unittest.TextTestRunner()

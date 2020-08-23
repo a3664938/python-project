@@ -1,9 +1,9 @@
 import datetime
-from testcase.test_base import TestBase,exception_monitor # 导包可以导入函数，这里将装饰器放在测试基类里，方便调用
-from page.form_page.list_page import ListPage
-from page.form_page.Design_page import DesignPage
-from page.form_page.allocation_right_page import AllocationRightPage
-from page.form_page.data_manage_page import DataManagePage
+from ui_web_auto_unitest.uiautomation_weibiaodan.testcase.test_base import TestBase,exception_monitor # 导包可以导入函数，这里将装饰器放在测试基类里，方便调用
+from ui_web_auto_unitest.uiautomation_weibiaodan.page.form_page.list_page import ListPage
+from ui_web_auto_unitest.uiautomation_weibiaodan.page.form_page.Design_page import DesignPage
+from ui_web_auto_unitest.uiautomation_weibiaodan.page.form_page.allocation_right_page import AllocationRightPage
+from ui_web_auto_unitest.uiautomation_weibiaodan.page.form_page.data_manage_page import DataManagePage
 from time import sleep
 class Data_Source_Case(TestBase):
 

@@ -1,3 +1,4 @@
+# coding=utf-8
 from page.page_base import Page
 from selenium.webdriver.common.by import By
 import datetime
